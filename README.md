@@ -1,6 +1,6 @@
 # OSProject Running Containers for Application Development
 
-Group Name: Smurf
+Group Name: Hello
 
 Section: 2 
 
@@ -12,8 +12,8 @@ Team Mates:
 
 ***Questions:***
 
-1. What is the link of the fork OSProject in your repository. ***(1 mark)*** __Fill answer here__.
-2. How many files and folders are in this repository. ***(1 mark)*** __Fill answer here__.
+1. What is the link of the fork OSProject in your repository. ***(1 mark)*** (https://github.com/2123467/OSProject)
+2. How many files and folders are in this repository. ***(1 mark)*** 1 folder with 6 png and 1 readme file.
 
 
 ## Exploring github codespaces
